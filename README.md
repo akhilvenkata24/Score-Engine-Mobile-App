@@ -1,6 +1,6 @@
 # Score Engine (Internal Calculator) 📊
 
-Score Engine is a modern Android application designed for university students to manage their academic performance. It helps you track your internal assessment marks and calculate your Semester Grade Point Average (SGPA) with ease.
+Score Engine is a modern Android application designed for Vignan's university students to manage their academic performance. It helps you track your internal assessment marks and calculate your Semester Grade Point Average (SGPA) with ease. (R22C24 Regulation)
 
 ## 🚀 Features
 
@@ -30,15 +30,9 @@ Score Engine is a modern Android application designed for university students to
   - ValueAnimator for smooth UI transitions
 - **Architecture**: Android Jetpack (AppCompat, Activity, Transition)
 
-## 📸 Screenshots
 
-| Dashboard | Internal Marks | SGPA Calculator |
-|-----------|----------------|-----------------|
-| ![Home](https://via.placeholder.com/200x400?text=Dashboard) | ![Internals](https://via.placeholder.com/200x400?text=Internals) | ![SGPA](https://via.placeholder.com/200x400?text=SGPA+Calculator) |
-
-*(Note: Replace these placeholders with actual screenshots from your phone!)*
 
 ## 📥 Installation
 
-1. Clone this repository:
+1. Download the APK file
    
