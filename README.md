@@ -34,5 +34,6 @@ Score Engine is a modern Android application designed for Vignan's university st
 
 ## 📥 Installation
 
-1. Download the APK file
+1. Download the APK file here
    
+   [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/akhilvenkata24/Score-Engine-Mobile-App/releases/tag/V.1.0.0)
